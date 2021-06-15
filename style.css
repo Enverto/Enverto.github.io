@@ -1,0 +1,25 @@
+  body{margin:0px;}
+span{
+  text-align:center;
+}
+div{
+max-width:100%;
+font-family: 'Source Sans Pro', sans-serif;
+  }
+div a{color: #ff0080;
+margin-left: 0px!important;
+margin-right:0px!important;}
+div img{
+max-width: 100%!important;
+height:auto!important;
+width:100%;
+padding: 0px;
+  }
+@media only screen and (max-width : 340px) {
+div{
+      max-width:100%;}
+}
+
+div img {
+      background: transparent url('https://2.bp.blogspot.com/-AmcLhAMdGqI/WDsn7WAd_kI/AAAAAAAAAUE/v8tL6pc3LxENwnjV2kEHponvRwe2nZpKACLcB/s1600/animation3ed.gif') center no-repeat;
+    }
